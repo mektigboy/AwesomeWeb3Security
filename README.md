@@ -1,8 +1,6 @@
-# Awesome Web3 hacking/security
+# Awesome Web3 Hacking/Security
 
-
-
-* **Blogs and Write-ups**
+- **Blogs and Write-ups**
 
 https://infosecwriteups.com/hacking-web3-introduction-and-how-to-start-88ae2c51f3ec
 
@@ -20,7 +18,7 @@ https://www.forbes.com/sites/forbestechcouncil/2022/05/04/the-rise-of-web3-what-
 
 https://rattibha.com/thread/1497126237864615957?lang=en
 
-* **Videos and talks:-**
+- **Videos and talks:-**
 
 https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX
 
